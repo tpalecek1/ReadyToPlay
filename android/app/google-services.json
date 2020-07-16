@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "603596535693",
+    "firebase_url": "https://readytoplay-fdb9b.firebaseio.com",
+    "project_id": "readytoplay-fdb9b",
+    "storage_bucket": "readytoplay-fdb9b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603596535693:android:4fd6ddd24f53d98eca2fc4",
+        "android_client_info": {
+          "package_name": "com.example.ReadyToPlay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603596535693-otofrdda71g322s6es5bmvp12t7g17ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBao4xgKXVosPhT8RonrKKrtltraqmmMfA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603596535693-otofrdda71g322s6es5bmvp12t7g17ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
