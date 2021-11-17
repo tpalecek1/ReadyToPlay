@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'screens/home.dart';
 import 'screens/login.dart';
+import 'package:firebase_auth/firebase_auth.dart';
+import 'screens/splash.dart';
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
@@ -12,9 +14,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      routes: {
-        '/': (context) => SignupLogin()
-      },
+      routes: {'/': (context) => SplashScreen()},
     );
   }
 }
