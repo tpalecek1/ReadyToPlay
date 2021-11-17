@@ -1,16 +1,3 @@
-# ReadyToPlay
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ready to Play is a cross-platform mobile application meant to let friends know if you are available to play online multiplayer games, and if so which ones.
+Users can add create a list of games that they own, mark whcih ones they'd like to play and toggle whether or not they're available to play at the moment.
+The app will show the user's friends list and display whether or not their friends are available to play!
